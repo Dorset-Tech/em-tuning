@@ -1,0 +1,929 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Azirspares\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 03:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: framework/woocommerce/template-functions.php:1143
+msgid " already claimed"
+msgstr ""
+
+#: woocommerce/product-styles/content-product-style-07.php:58
+#: woocommerce/product-styles/content-product-style-08.php:60
+#: woocommerce/product-styles/content-product-style-06.php:57
+msgid " DEAL END IN :"
+msgstr ""
+
+#: framework/includes/blog-functions.php:157
+msgid "%"
+msgstr ""
+
+#: framework/includes/blog-functions.php:140
+msgid "% Comments"
+msgstr ""
+
+#: framework/includes/blog-functions.php:337
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: framework/includes/megamenu/nav_edit_custom_walker.php:88
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/includes/megamenu/nav_edit_custom_walker.php:92
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:46
+msgid "+"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:35
+msgid "-"
+msgstr ""
+
+#: framework/includes/blog-functions.php:234
+msgid "..."
+msgstr ""
+
+#: framework/includes/blog-functions.php:155
+msgid "0"
+msgstr ""
+
+#: framework/includes/blog-functions.php:138
+msgid "0 Comments"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:580
+msgid "05"
+msgstr ""
+
+#: framework/includes/blog-functions.php:156
+msgid "1"
+msgstr ""
+
+#: framework/includes/blog-functions.php:139
+msgid "1 Comment"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:583
+msgid "10"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:586
+msgid "12"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:589
+msgid "15"
+msgstr ""
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:208
+msgid "404 Not Found"
+msgstr ""
+
+#: vc_templates/azirspares_faqs.php:69
+msgid "A"
+msgstr ""
+
+#: templates/header-mobile.php:98
+msgid "Account"
+msgstr ""
+
+#: functions.php:146
+msgid "Add widgets here to appear in your blog sidebar."
+msgstr ""
+
+#: functions.php:176
+msgid "Add widgets here to appear in your category sidebar."
+msgstr ""
+
+#: functions.php:156
+msgid "Add widgets here to appear in your shop sidebar."
+msgstr ""
+
+#: functions.php:166
+msgid "Add widgets here to appear in your single product sidebar."
+msgstr ""
+
+#: framework/includes/theme-functions.php:227
+#: framework/includes/theme-functions.php:304
+msgid "All Categories"
+msgstr ""
+
+#: framework/includes/theme-functions.php:331
+msgid "ALL Departments"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:209
+msgid "Archives"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Arizspares is a theme designed for car dealers, car parts dealers and it "
+"also supports car listings."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1147
+msgid "Available: "
+msgstr ""
+
+#. Name of the theme
+msgid "Azirspares"
+msgstr ""
+
+#: 404.php:26
+msgid "Back to hompage"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:132
+msgid "Back to login"
+msgstr ""
+
+#: templates-part/page-banner.php:29
+msgid "banner"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:724
+msgid "Bestseller Products"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:206
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: functions.php:281
+msgid "Browse Wishlist"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:205
+msgid "Browse:"
+msgstr ""
+
+#: functions.php:48
+msgid "Burger Icon Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Burger List Menu"
+msgstr ""
+
+#: framework/includes/blog-functions.php:123
+msgid "By:"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:271
+msgid "Cancel"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1292
+msgid "Cart"
+msgstr ""
+
+#: framework/includes/blog-functions.php:353
+msgid "Categories: "
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:130
+msgid "Checkout"
+msgstr ""
+
+#: framework/includes/theme-functions.php:305
+msgid "Close"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: Name of current post
+#: framework/includes/blog-functions.php:246
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:131
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+msgid "Create an account"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:632
+msgid "Cross Sell Products"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:210
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:645
+#: framework/includes/breadcrumbs.php:982
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: functions.php:312
+msgid "Days"
+msgstr ""
+
+#: woocommerce/product-styles/content-product-style-07.php:38
+#: woocommerce/product-styles/content-product-style-08.php:40
+#: woocommerce/product-styles/content-product-style-06.php:36
+msgid "Deals"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:228
+msgid "Description"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:241
+msgid "Down one"
+msgstr ""
+
+#: framework/includes/blog-functions.php:201
+msgid "Edit"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:164
+#: framework/includes/megamenu/nav_edit_custom_walker.php:166
+msgid "Edit Menu Item"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:102
+msgid "Email address"
+msgstr ""
+
+#: comments.php:20
+msgid "Email*"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:122
+msgid "Empty Cart"
+msgstr ""
+
+#: comments.php:22
+msgid "Enter you comment here..."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1351
+msgid "Facebook"
+msgstr ""
+
+#. Author of the theme
+msgid "Famithemes"
+msgstr ""
+
+#: framework/includes/theme-functions.php:437
+msgid "Follow us"
+msgstr ""
+
+#: dokan/store-header.php:99
+msgid "follow us :"
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:155
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:33
+msgid "Font icon"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: content-none.php:4
+msgid "Get started here"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1358
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:275
+msgid "has been added to cart!"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:207
+msgid "Home"
+msgstr ""
+
+#: framework/includes/theme-functions.php:267
+msgid "Hot Keywords:"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:628
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: functions.php:313
+msgid "Hours"
+msgstr ""
+
+#. URI of the theme
+msgid "http://azirspares.famithemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://famithemes.com/"
+msgstr ""
+
+#: functions.php:115
+msgid "Huge"
+msgstr ""
+
+#: woocommerce/product-styles/content-product-style-07.php:58
+#: woocommerce/product-styles/content-product-style-08.php:60
+#: woocommerce/product-styles/content-product-style-06.php:57
+msgid "Hurry up !"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:92
+msgid "Icon Image "
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:24
+msgid "Icon Settings"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:43
+#: framework/includes/megamenu/nav_menu_custom_fields.php:37
+msgid "Image"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:88
+#: framework/includes/megamenu/nav_menu_custom_fields.php:89
+msgid "Image preview"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:128
+msgid "image-icon"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1114
+msgid "In Stock"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:110
+msgid "L"
+msgstr ""
+
+#: functions.php:109
+msgid "Large"
+msgstr ""
+
+#: index.php:79
+msgid "Latest Posts"
+msgstr ""
+
+#: comments.php:28
+msgid "Leave a comment"
+msgstr ""
+
+#: woocommerce/product-styles/content-product-style-07.php:20
+#: woocommerce/product-styles/content-product-style-08.php:21
+#: woocommerce/product-styles/content-product-style-06.php:18
+msgid "LIMITED TIME"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:219
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: functions.php:50
+msgid "Listing Menu"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Log in"
+msgstr ""
+
+#: templates/header-mobile.php:100 woocommerce/myaccount/form-login.php:34
+msgid "Login"
+msgstr ""
+
+#: framework/includes/theme-functions.php:544
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Lost your password?"
+msgstr ""
+
+#: functions.php:104
+msgid "M"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:97
+msgid "Mega menu settings"
+msgstr ""
+
+#: templates/header-mobile.php:45 templates/header-mobile.php:90
+msgid "Menu"
+msgstr ""
+
+#: functions.php:314
+msgid "Mins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: framework/includes/breadcrumbs.php:215
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:596
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:612
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:644
+#: framework/includes/breadcrumbs.php:692
+#: framework/includes/breadcrumbs.php:979
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:239
+msgid "Move"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:161
+msgid "Move down"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:147
+msgid "Move up"
+msgstr ""
+
+#: templates/header-mobile.php:65
+msgid "My Wishlist"
+msgstr ""
+
+#: comments.php:19
+msgid "Name*"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:184
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1025
+msgid "New"
+msgstr ""
+
+#: comments.php:54 framework/woocommerce/template-functions.php:617
+msgid "Next"
+msgstr ""
+
+#: vc_templates/azirspares_custommenu.php:33
+msgid "No content."
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:914
+msgid "No Font"
+msgstr ""
+
+#: vc_templates/azirspares_products.php:114
+msgid "No Product"
+msgstr ""
+
+#: vc_templates/azirspares_instagram.php:57
+msgid "No user ID specified."
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:28
+msgid "None"
+msgstr ""
+
+#: functions.php:103
+msgid "Normal"
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:282
+msgid "Notice!"
+msgstr ""
+
+#: woocommerce/product-styles/content-product-style-07.php:39
+#: woocommerce/product-styles/content-product-style-08.php:41
+#: woocommerce/product-styles/content-product-style-06.php:37
+msgid "OF THE DAYS"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:205
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: 404.php:22
+msgid "Opps! This page Could Not Be Found!"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:73
+#: woocommerce/myaccount/form-login.php:131
+msgid "Or"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:250
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:927
+msgid "Out Of Stock"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1117
+msgid "Out stock"
+msgstr ""
+
+#: page.php:81
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: framework/includes/breadcrumbs.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: page.php:77 framework/includes/blog-functions.php:251
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:112
+msgid "Password"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1365
+msgid "Pinterest"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Your search here&hellip;"
+msgstr ""
+
+#: comments.php:27
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:53
+msgid "Prev"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:616
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:45
+msgid "Price"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:277
+msgid "Product has been added to cart!"
+msgstr ""
+
+#: functions.php:279
+msgid "Product has been added to wishlist!"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: functions.php:283
+msgid "Product Removed"
+msgstr ""
+
+#: vc_templates/azirspares_faqs.php:65
+msgid "Q"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:46
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgid "Quantiy:"
+msgstr ""
+
+#: framework/includes/blog-functions.php:226
+msgid "Read more"
+msgstr ""
+
+#: content-none.php:4
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: vc_templates/azirspares_products.php:130
+msgid "Refresh for more"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:82
+#: woocommerce/myaccount/form-login.php:125
+#: woocommerce/myaccount/form-login.php:125
+msgid "Register"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:634
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:42
+#: framework/includes/megamenu/nav_edit_custom_walker.php:264
+msgid "Remove"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:453
+msgid "review"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:455
+msgid "reviews"
+msgstr ""
+
+#: functions.php:98
+msgid "S"
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:898
+msgid "Search a Icon..."
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:896
+msgid "Search Icon: "
+msgstr ""
+
+#: framework/includes/theme-functions.php:249
+msgid "Search keyword, category, brand or part"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: framework/includes/breadcrumbs.php:211
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: index.php:91
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:315
+msgid "Secs"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:52
+msgid "Select Icon"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1336
+msgid "Share"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1339
+msgid "Share This"
+msgstr ""
+
+#: framework/includes/blog-functions.php:302
+msgid "Share: "
+msgstr ""
+
+#: vc_templates/azirspares_products_total.php:53
+#, php-format
+msgid "Shop By %s (%s)"
+msgstr ""
+
+#: vc_templates/azirspares_products_total.php:37
+#, php-format
+msgid "Shop By Products (%s)"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:509
+msgid "Shop Grid"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:526
+msgid "Shop List"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:727
+msgid "Shop more"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:34
+msgid "Shop Now"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:577
+#: framework/woocommerce/template-functions.php:580
+#: framework/woocommerce/template-functions.php:583
+#: framework/woocommerce/template-functions.php:586
+#: framework/woocommerce/template-functions.php:589
+msgid "Show "
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:592
+msgid "Show All"
+msgstr ""
+
+#: functions.php:97
+msgid "Small"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"Sorry bit the page you are looking for does not exist, have been removed or "
+"name changed"
+msgstr ""
+
+#: content-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: dokan/store-header.php:13
+msgid "Store Closed"
+msgstr ""
+
+#: dokan/store-header.php:12
+msgid "Store Open"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:131
+msgid "sub item"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:233
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:44
+msgid "Title"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:193
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:244
+msgid "To the top"
+msgstr ""
+
+#: functions.php:46
+msgid "Top Left Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Top Right Menu"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:47 woocommerce/xoo-cp-content.php:126
+msgid "Total"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1344
+msgid "Twitter"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1153
+msgid "Unlimit"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:240
+msgid "Up one"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:636
+msgid "Upsell Products"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:174
+msgid "URL"
+msgstr ""
+
+#: vc_templates/azirspares_instagram.php:66
+msgid "User ID and access token do not match. Please check again."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+msgid "Username or email address"
+msgstr ""
+
+#: functions.php:45
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:276 woocommerce/xoo-cp-content.php:129
+msgid "View Cart"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: framework/includes/breadcrumbs.php:217
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:669
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: functions.php:144
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:174
+msgid "Widget Category"
+msgstr ""
+
+#: functions.php:164
+msgid "Widget Product"
+msgstr ""
+
+#: functions.php:154
+msgid "Widget Shop"
+msgstr ""
+
+#: functions.php:116
+msgid "XL"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:643
+#: framework/includes/breadcrumbs.php:668
+#: framework/includes/breadcrumbs.php:691
+#: framework/includes/breadcrumbs.php:714
+#: framework/includes/breadcrumbs.php:976
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/xoo-cp-content.php:32
+msgid "Your cart is empty"
+msgstr ""
+
+#: framework/includes/blog-functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr ""

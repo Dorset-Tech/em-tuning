@@ -1,0 +1,121 @@
+=== Arizspares ===
+
+Requires at least: 4.8
+Tested up to: 5.5.3
+Stable tag: 1.3.7
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+
+Arizspares is a theme designed for car dealers, car parts dealers and it also supports car listings.
+
+== Installation ==
+
+1. In your admin panel, go to Appearance > Themes and click the Add New button.
+2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
+3. Click Activate to use your new theme right away.
+
+== Changelog ==
+
+= 1.3.7 - November 09 2020
+	- Tested: WordPress version 5.5.3
+	- Updated: WooCommerce version 4.6.2
+	- Updated: WPBakery Page Builder version 6.4.1
+
+= 1.3.6 - February 05 2020 =
+	- Fixed: Image zoom is not displayed on single product pages
+	- Fixed: Instagram shop does not occasionally display images
+	- Updated: Ziss - WooCommerce Product Pinner version 2.9
+	- Updated: WooCommerce version 3.9.1
+
+= 1.3.5 - November 18 2019 =
+	- Updated: Fami Automotive Listings 1.2.3
+	- Updated: WooCommerce 3.8.0
+ 	- Tested: WordPress 5.3
+
+= 1.3.4 - October 15 2019 =
+    - Fixed: No rename Vertical Menu Title
+    - Fixed: Demo import issue
+    - Updated: Azirspares Toolkit version 1.3.0
+    - Tested: WordPress version 5.2.4
+
+= 1.3.3 - September 05 2019 =
+    - Updated: AU Listing version 1.2.0
+    - Updated: WordPress 5.2.3
+    - Updated: WooCommerce 3.7.0
+    - Updated: WPBakery Page Builder 6.0.5
+    - Updated: Slider Revolution 6.1.0
+    - Updated: WordPress 5.2.3
+
+= 1.3.2 - June 15 2019 =
+    - Fixed: Visual Composer Responsive
+    - Fixed: Search product 500 internal error
+
+= 1.3.1 - June 06 2019 =
+    - Updated: WPBakery Visual Composer version 6.0.3
+
+= 1.3.0 - May 23 2019 =
+	- Added: Gutenberg support
+	- Updated: WooCommerce version 3.6.2
+	- Updated: WPBakery Page Builder version 6.0.2
+	- Improved: CSS
+
+= 1.2.7 - April 10 2019 =
+	- Fixed: Import issue
+	- Fixed: Wrong theme on the last update
+	- Updated: Fami Automotive Listings version 1.1.9
+
+= 1.2.6 - April 08 2019 =
+	- Updated: Translation
+
+= 1.2.5 - April 06 2019 =
+	- Updated: Fami Automotive Listings version 1.1.8
+	- Fixed: Single AU listing translation issue
+
+= 1.2.4 - March 30 2019 =
+	- Updated: Fami Automotive Listings version 1.1.7
+	- Changed: Engine field max value to 10000
+	- Fixed: Automotive meta data is sometimes not displayed
+
+= 1.2.3 - March 11 2019 =
+    - Fixed: Bug on the listing editor page
+    - Updated: WooCommerce version 5.5.6
+    - Updated: Fami Automotive Listings version 1.1.3
+    - Updated: WPBakery Visual Composer version 4.7
+    - Updated: Revolution Slider version 5.4.8.3
+    - Updated: Fami Sales Popup version 1.1.1
+
+= 1.2.2 - February 13 2019 =
+    - Fixed: Wrong number in listing dropdown filter
+    - Updated: WPBakery Page Builder version 5.7
+    - Updated: Fami Automotive Listings version 1.1.2
+
+= 1.2.1 - December 28 2018 =
+    - Fixed: The drop-down filter does not display the selected value
+    - Updated: Dokan version 2.9.8
+    - Tested: WordPress version 5.0.3
+
+= 1.2.0 - December 28 2018 =
+    - Updated: RTL supported
+    - Updated: Azirspares Toolkit version 1.1.5
+    - Fixed: Live search bug
+
+= 1.1.3 - December 04 2018 =
+    - Fixed: Image size in products shortcode
+
+= 1.1.2 - December 01 2018 =
+    - Fixed: Recent view products bug
+    - Update: WPBakery Page Builder version 5.6
+    - Fixed: PHP 7.2 bugs
+
+= 1.1.1 - November 27 2018 =
+    - Fixed: Sample data error
+
+= 1.1.0 - November 24 2018 =
+    - Fixed: Listings dropdown search
+    - Added: Listings mobile filter (on the real devices)
+    - Fixed: Some CSS issues
+
+= 1.0.0 - November 23 2018 =
+    - Initial release
